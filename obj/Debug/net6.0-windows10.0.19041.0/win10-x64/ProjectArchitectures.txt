@@ -1,0 +1,1 @@
+C:\Repo\NN01\NN01-app\NN01-app.csproj;x64
