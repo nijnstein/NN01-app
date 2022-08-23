@@ -41,27 +41,6 @@ namespace NN01_app
                 else
                 {
                     target[1] = 1f;
-
-                    /* move to middle 
-                    if (PaddlyY < 0.5f) 
-                    {
-                        target[2] = 0.2f;
-                    }
-                    else
-                    if (PaddlyY < 0.2)
-                    {
-                        target[2] = 0.3f;
-                    }
-
-                    if (PaddlyY > 0.7)
-                    {
-                        target[0] = 0.3f;
-                    }
-                    else
-                    if (PaddlyY > 0.5)
-                    {
-                        target[0] = 0.2f;
-                    } */ 
                 }
 
                 return target; 
